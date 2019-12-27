@@ -1,10 +1,10 @@
-# oop_exercize_0*
+# oop_exercize_08
 ### there could be a description
 
 ## in bash:
 - "cmake cmakelists.txt"
 - "make"
-- "./exercise" to start the programm
+- "./oop_exercise_8" too run the prog 
 
 ## more info (RUS):
 - report.docx
